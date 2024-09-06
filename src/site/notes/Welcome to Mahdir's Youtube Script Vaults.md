@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-mahdir-s-youtube-script-vaults/","tags":["gardenEntry"],"noteIcon":"","created":"2024-09-06T23:09:46.431+06:00","updated":"2024-09-07T02:08:25.548+06:00"}
+{"dg-publish":true,"permalink":"/welcome-to-mahdir-s-youtube-script-vaults/","tags":["gardenEntry"],"noteIcon":"","created":"2024-09-06T23:09:46.431+06:00","updated":"2024-09-07T03:14:11.881+06:00"}
 ---
 
 # Hello There
@@ -24,5 +24,8 @@ Example Scripts:
 
 # Ideas
 [[Stickman Shorts/Video Ideas/Video Ideas by Chatgpt\|Video Ideas by Chatgpt]]
+
+# Scripts
+[[Stickman Shorts/Video Ideas/Witch hunt\|Witch hunt]]
 
 
