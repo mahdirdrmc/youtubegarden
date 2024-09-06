@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/stickman-shorts/example-scripts/10-animals-that-use-substances/","noteIcon":"","created":"2024-09-06T21:32:31.183+06:00","updated":"2024-09-07T00:19:28.703+06:00"}
+{"dg-publish":true,"permalink":"/stickman-shorts/example-scripts/10-animals-that-use-substances/","noteIcon":"","created":"2024-09-06T21:32:31.183+06:00","updated":"2024-09-07T00:38:43.657+06:00"}
 ---
+
+# **10 Animals That Use Substances**
 
 Let's get the easy ones out of the way and slowly work our way up to the worst offenders on the list.
 

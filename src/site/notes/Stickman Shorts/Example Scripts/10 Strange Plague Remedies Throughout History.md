@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/stickman-shorts/example-scripts/10-strange-plague-remedies-throughout-history/","noteIcon":"","created":"2024-09-06T20:53:11.343+06:00","updated":"2024-09-07T00:19:41.993+06:00"}
+{"dg-publish":true,"permalink":"/stickman-shorts/example-scripts/10-strange-plague-remedies-throughout-history/","noteIcon":"","created":"2024-09-06T20:53:11.343+06:00","updated":"2024-09-07T00:38:09.493+06:00"}
 ---
 
+# **10 Strange Plague Remedies Throughout History**
 
 Let's start with the strange and slowly work our way towards the most horrifying things on the list.
 
