@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/stickman-shorts/example-scripts/10-horrifying-medieval-punishments/","noteIcon":"","created":"2024-09-06T20:53:47.574+06:00","updated":"2024-09-07T00:04:45.920+06:00"}
+{"dg-publish":true,"permalink":"/stickman-shorts/example-scripts/10-horrifying-medieval-punishments/","noteIcon":"","created":"2024-09-06T20:53:47.574+06:00","updated":"2024-09-07T00:38:26.178+06:00"}
 ---
+
+# **10 Horrifying Medieval Punishments**
 
 
 Link- https://youtube.com/watch?v=ZSXypSLfVN8
