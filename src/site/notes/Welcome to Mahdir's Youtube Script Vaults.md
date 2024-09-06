@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-mahdir-s-youtube-script-vaults/","tags":["gardenEntry"],"noteIcon":"","created":"2024-09-06T23:09:46.431+06:00","updated":"2024-09-07T01:50:31.531+06:00"}
+{"dg-publish":true,"permalink":"/welcome-to-mahdir-s-youtube-script-vaults/","tags":["gardenEntry"],"noteIcon":"","created":"2024-09-06T23:09:46.431+06:00","updated":"2024-09-07T02:08:25.548+06:00"}
 ---
 
 # Hello There
@@ -21,5 +21,8 @@ Example Scripts:
 [[Stickman Shorts/Example Scripts/10 Animals That Use Substances\|10 Animals That Use Substances]]
 [[Stickman Shorts/Example Scripts/10 Strange Plague Remedies Throughout History\|10 Strange Plague Remedies Throughout History]]
 
+
+# Ideas
+[[Stickman Shorts/Video Ideas/Video Ideas by Chatgpt\|Video Ideas by Chatgpt]]
 
 
