@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/stickman-shorts/video-ideas/witch-hunt/","noteIcon":"","created":"2024-09-07T02:35:15.776+06:00","updated":"2024-09-13T23:50:11.732+06:00"}
+{"dg-publish":true,"permalink":"/stickman-shorts/video-ideas/witch-hunt/","noteIcon":"","created":"2024-09-07T02:35:15.776+06:00","updated":"2024-09-13T23:52:25.202+06:00"}
 ---
 
 
@@ -137,3 +137,5 @@ The preferred method of execution in Salem was hanging. Because apparently, if y
 By the time the dust settled, 19 people had been executed by hanging, one pressed to death, and at least five had died in prison.
 
 And there you have it, folks - the top 10 most notorious witch hunts in history. Next time you think your neighbors are giving you the evil eye, just remember - it could be worse. They could be accusing you of dancing with the devil and eating babies. 
+
+Thanks for watching the whole video. Let us know in the comment which topic can we cover next.S
